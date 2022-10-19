@@ -22,4 +22,4 @@ public class Task1_2_3 {
         paper = paper - 7639;
         System.out.println(paper);
     }
-    }
+}
